@@ -1,0 +1,13 @@
+h1{
+    color:burlywood;
+text-align: center;
+}
+
+.textored{
+     color:cornflowerblue;
+}
+
+#logo{
+    display: inline-block;
+    width: 10%;
+}
